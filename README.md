@@ -16,9 +16,16 @@
 
 I build practical software that removes friction from everyday work, across the full stack: product design, frontend, backend, and the systems code underneath. My current focus is browser extensions, Electron desktop apps, and Rust services.
 
-### Featured project
+### Projects
 
-**Ember** &nbsp;·&nbsp; Firmware push tool for TCC thermostat gateways.
+**Firmware push tool**<br>
+Firmware push tool for TCC thermostat gateways.
+
+**Minecraft server dashboard**<br>
+Self-hosted Minecraft server dashboard in Rust with a built-in hostname router, for Docker and Unraid.
+
+**Waypoint**<br>
+Training and enablement platform for every colleague, with a companion desktop app for writing and publishing support articles.
 
 ### Contact
 
